@@ -1,4 +1,4 @@
-# AJWP_Anudip_project
+# Grade_System
 # 🎓 Student Grade Management System
 
 A simple and efficient **Java-based command-line application** that manages student academic records. This project utilizes **JDBC (Java Database Connectivity)** to interact with a **MySQL database**, allowing persistent storage and retrieval of student data.
