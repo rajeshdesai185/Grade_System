@@ -3,8 +3,8 @@ import java.util.*;
 
 public class GradeManagerJDBC {
     static final String DB_URL = "jdbc:mysql://localhost:3306/student_db";
-    static final String USER = "root"; // change if needed
-    static final String PASS = "Raj@3280"; // change if needed
+    static final String USER = "root"; 
+    static final String PASS = "Raj@3280"; 
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
